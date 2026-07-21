@@ -15,13 +15,13 @@ This section summarizes the core concepts I studied before moving into Retrieval
 Traditional software follows predefined rules.
 
 ```
-      Input
-      ↓
+Input
+↓
+
+Program Logic
+↓
       
-      Program Logic
-      ↓
-      
-      Output
+Output
 ```
 
 LLMs learn patterns from data instead of relying only on manually written rules.
