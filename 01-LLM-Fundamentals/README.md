@@ -38,7 +38,7 @@ They allow developers to build applications that can:
 
 ---
 
-# Core Concepts Covered
+# Core Concepts Explored
 
 During this learning phase, I studied:
 
@@ -86,7 +86,7 @@ Generated Response
 
 ---
 
-# Key Learnings
+# My Key Takeaways
 
 Through this topic, I understood that:
 
@@ -115,9 +115,48 @@ Understanding these fundamentals provides the foundation for advanced topics suc
 These concepts are essential before building production AI applications.
 
 ---
+## Common Misconceptions
 
-# References
+❌ LLMs memorize every answer.
+
+✅ LLMs predict the next token using learned statistical patterns.
+
+---
+
+❌ GPT understands language exactly like humans.
+
+✅ GPT identifies patterns in data but does not possess human understanding.
+
+---
+
+❌ Prompt engineering means finding "magic prompts."
+
+✅ Effective prompts provide sufficient context and clear instructions.
+
+---
+
+## Real-world Applications
+
+The concepts learned in this section are used in:
+
+- ChatGPT
+- GitHub Copilot
+- Customer Support Assistants
+- Document Summarization
+- Code Generation
+- Enterprise Search
+- AI Analytics Applications
+
+---
+
+# Learning Resources
 
 - OpenAI Documentation
 - CampusX
 - Ansh Lamba
+
+---
+
+# What's Next?
+
+➡ Embeddings
