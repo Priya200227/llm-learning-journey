@@ -121,13 +121,11 @@ These concepts are essential before building production AI applications.
 
 ✅ LLMs predict the next token using learned statistical patterns.
 
----
 
 ❌ GPT understands language exactly like humans.
 
 ✅ GPT identifies patterns in data but does not possess human understanding.
 
----
 
 ❌ Prompt engineering means finding "magic prompts."
 
