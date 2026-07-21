@@ -15,13 +15,13 @@ This section summarizes the core concepts I studied before moving into Retrieval
 Traditional software follows predefined rules.
 
 ```
-Input
-↓
-
-Program Logic
-↓
-
-Output
+      Input
+      ↓
+      
+      Program Logic
+      ↓
+      
+      Output
 ```
 
 LLMs learn patterns from data instead of relying only on manually written rules.
@@ -63,13 +63,13 @@ During this learning phase, I studied:
 # High-Level LLM Workflow
 
 ```
-User Prompt
+  User Prompt
       │
       ▼
-Tokenizer
+  Tokenizer
       │
       ▼
-Tokens
+   Tokens
       │
       ▼
 Transformer Model
