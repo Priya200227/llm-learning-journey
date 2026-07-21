@@ -1,7 +1,6 @@
 # 🗄️ Vector Databases
 
 ## Overview
-
 Large Language Models and embedding models generate high-dimensional numerical vectors that capture the semantic meaning of text. While these vectors are essential for semantic search, storing and searching millions of vectors efficiently is not something traditional relational databases are designed for.
 
 Vector Databases are specialized databases built to store, index, and retrieve vector embeddings efficiently using similarity search algorithms.
@@ -11,7 +10,6 @@ They form one of the core building blocks of Retrieval-Augmented Generation (RAG
 ---
 
 # Why do we need Vector Databases?
-
 After converting documents into embeddings, every document becomes a high-dimensional vector.
 
 Imagine an enterprise knowledge base containing:
