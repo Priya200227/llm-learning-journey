@@ -149,7 +149,7 @@ The concepts learned in this section are used in:
 
 ---
 
-# Learning Resources
+## Learning Resources
 
 - OpenAI Documentation
 - CampusX
@@ -157,6 +157,6 @@ The concepts learned in this section are used in:
 
 ---
 
-# What's Next?
+## What's Next?
 
 ➡ Embeddings
