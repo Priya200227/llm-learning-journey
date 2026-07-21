@@ -116,19 +116,16 @@ Throughout this topic, I understood that:
 
 ✅ Embeddings are numerical vector representations that capture semantic meaning.
 
----
 
 ❌ Similar words always produce identical embeddings.
 
 ✅ Similar words produce nearby vectors, but the exact representation depends on the embedding model and surrounding context.
 
----
 
 ❌ Embeddings understand language like humans.
 
 ✅ Embeddings encode statistical relationships learned from training data; they do not possess human understanding.
 
----
 
 ❌ Embeddings replace Large Language Models.
 
