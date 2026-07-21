@@ -149,6 +149,20 @@ The concepts learned in this section are used in:
 
 ---
 
+## Questions I Asked Myself
+
+Why can't an LLM directly search a database?
+
+Why is tokenization necessary?
+
+Why do transformers replace RNNs?
+
+What is the difference between understanding and prediction?
+
+Why does context length matter?
+
+---
+
 ## Learning Resources
 
 - OpenAI Documentation
