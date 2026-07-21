@@ -119,7 +119,5 @@ These concepts are essential before building production AI applications.
 # References
 
 - OpenAI Documentation
-- LangChain Documentation
 - CampusX
 - Ansh Lamba
-- DeepLearning.AI
