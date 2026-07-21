@@ -4,9 +4,11 @@
 
 Large Language Models (LLMs) are deep learning models trained on massive amounts of text data to understand and generate human language. They can perform tasks such as question answering, summarization, translation, coding assistance, text generation, and reasoning.
 
-Instead of storing predefined answers, LLMs learn statistical patterns and relationships between words and predict the most probable next token during text generation.
+Instead of storing predefined answers, LLMs learn statistical relationships between tokens from large-scale training data and relationships between words and predict the most probable next token during text generation.
 
-This section summarizes the core concepts I studied before moving into Retrieval-Augmented Generation (RAG) and AI application development.
+This section documents my understanding of the core concepts that form the foundation of modern LLM applications.
+
+The goal is to build conceptual clarity before moving into retrieval systems, orchestration frameworks, and production AI applications.
 
 ---
 
