@@ -8,6 +8,8 @@ Retrieval-Augmented Generation (RAG) is a technique that enhances the capabiliti
 
 In this section, I explored the complete RAG pipeline using LangChain, including document loading, text splitting, embeddings, vector databases, retrievers, prompt augmentation, and response generation.
 
+Before learning RAG, I assumed the LLM searched documents directly. Building the pipeline helped me understand that retrieval and generation are two separate stages.
+
 ---
 
 # Why RAG?
