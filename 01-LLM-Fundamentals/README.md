@@ -1,4 +1,4 @@
-# 🧠 LLM Fundamentals
+# 🤖 LLM Fundamentals
 
 ## Introduction
 
