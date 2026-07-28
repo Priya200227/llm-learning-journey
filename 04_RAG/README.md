@@ -139,7 +139,6 @@ Final Response
 
 Returns documents with the highest semantic similarity.
 
----
 
 ### Multi Query Retriever
 
@@ -147,7 +146,6 @@ Uses an LLM to generate multiple versions of the user's question, retrieves docu
 
 Useful when the user's original query is ambiguous or incomplete.
 
----
 
 ### Max Marginal Relevance (MMR)
 
@@ -158,7 +156,6 @@ Balances:
 
 Instead of returning similar chunks repeatedly.
 
----
 
 ### Contextual Compression Retriever
 
