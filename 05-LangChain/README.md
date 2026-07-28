@@ -330,7 +330,7 @@ Final Response
 
 ---
 
-# My Key Takeaways
+# My Understanding
 
 - LangChain is a framework, not a language model.
 - Every component solves a specific engineering problem.
