@@ -236,19 +236,5 @@ Understanding when to use each type of database is an important part of designin
 
 # What's Next?
 
-Previous Topic
-
-⬅️ Embeddings
-
-↓
-
-Current Topic
-
-🗄️ Vector Databases
-
-↓
-
-Next Topic
-
 ➡️ Retrieval-Augmented Generation (RAG)
 
