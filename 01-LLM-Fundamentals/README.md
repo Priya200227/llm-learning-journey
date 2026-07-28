@@ -162,7 +162,6 @@ What is the difference between understanding and prediction?
 Why does context length matter?
 
 ---
-
 ## Learning Resources
 
 - OpenAI Documentation
@@ -170,7 +169,13 @@ Why does context length matter?
 - Ansh Lamba
 
 ---
+## Challenges I Faced
 
+When I first started learning about LLMs, I found it difficult to understand how they actually generate responses. I initially thought they stored answers like a database and simply retrieved them whenever a question was asked.
+
+I was also confused by concepts such as tokenization, attention mechanisms, transformers, and context windows because many resources explained them using heavy mathematical notation.
+
+---
 ## What's Next?
 
 ➡ Embeddings
