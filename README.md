@@ -38,7 +38,7 @@ As I continue learning, I will regularly update this repository with:
 | Embeddings | ✅ Completed |
 | Vector Databases | ✅ Completed |
 | Retrieval-Augmented Generation (RAG) | 🔄 Learning |
-| LangChain | ⏳ Upcoming |
+| LangChain | 🔄 Learning |
 | LangGraph | ⏳ Planned |
 | AI Agents | ⏳ Planned |
 | FastAPI | ⏳ Planned |
