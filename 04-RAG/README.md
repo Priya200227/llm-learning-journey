@@ -182,7 +182,7 @@ Benefits:
 
 ---
 
-# My Key Takeaways
+# My Understanding
 
 - RAG reduces hallucinations by grounding responses in retrieved documents.
 - Text splitting significantly impacts retrieval quality.
