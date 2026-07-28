@@ -231,6 +231,7 @@ Benefits:
 # Learning Resources
 
 - CampusX LangChain Playlist
+- Ansh Lamba tutorial
 - LangChain Documentation
 - Chroma Documentation
 - FAISS Documentation
