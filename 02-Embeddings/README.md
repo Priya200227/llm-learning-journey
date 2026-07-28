@@ -201,7 +201,20 @@ Some analytics use cases include:
 Understanding embeddings helped me connect traditional data retrieval concepts with modern AI-powered information retrieval.
 
 ---
+## Challenges I Faced
 
+At first, I couldn't understand why embeddings were needed when LLMs already understand language. The idea of converting text into vectors felt abstract, and I struggled to visualize how semantic similarity was calculated.
+
+I also found concepts like cosine similarity and vector representations confusing in the beginning.
+
+---
+## How I Solved Them
+
+I started relating embeddings to semantic search instead of traditional keyword search. Visualizing similar words as nearby points in a vector space made the concept much clearer.
+
+Once I connected embeddings with real-world applications like document search and RAG, the overall idea became much easier to understand.
+
+---
 # What's Next?
 
 Previous Topic
