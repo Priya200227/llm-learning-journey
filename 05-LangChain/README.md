@@ -8,6 +8,8 @@ Instead of writing complex application logic from scratch, LangChain offers modu
 
 In this section, I explored LangChain's core architecture, including document loaders, text splitters, vector stores, retrievers, tools, tool calling, agents, and the ReAct framework.
 
+When I first started learning LangChain, I thought it was another LLM. After working through examples, I realized it is a framework that connects different AI components into complete applications.
+
 ---
 
 # Why LangChain?
