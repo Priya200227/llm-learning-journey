@@ -206,16 +206,4 @@ Understanding embeddings helped me connect traditional data retrieval concepts w
 
 Previous Topic
 
-⬅️ LLM Fundamentals
-
-↓
-
-Current Topic
-
-🔢 Embeddings
-
-↓
-
-Next Topic
-
 ➡️ Vector Databases
