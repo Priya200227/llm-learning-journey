@@ -97,7 +97,7 @@ Documents whose vectors are closest to the query vector are considered the most 
 
 ---
 
-# My Key Takeaways
+# My Understanding
 
 Throughout this topic, I understood that:
 
