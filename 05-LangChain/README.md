@@ -382,6 +382,7 @@ Final Response
 # Learning Resources
 
 - CampusX LangChain Playlist
+- Ansh Lamba tutorial 
 - LangChain Official Documentation
 - LangSmith Documentation
 - Chroma Documentation
