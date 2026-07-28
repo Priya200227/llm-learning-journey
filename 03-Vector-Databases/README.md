@@ -233,7 +233,20 @@ Understanding when to use each type of database is an important part of designin
 - DeepLearning.AI
 
 ---
+## Challenges I Faced
 
+Initially, I assumed that vector databases were simply another type of SQL database. I was confused about why a separate database was needed when relational databases already store large amounts of information.
+
+Understanding similarity search and indexing for vectors also took some time.
+
+---
+## How I Solved Them
+
+I compared the responsibilities of relational databases and vector databases side by side. That helped me realize they solve different retrieval problems rather than replacing each other.
+
+Following the complete retrieval pipeline—from embeddings to similarity search—helped me understand where vector databases fit into modern AI applications.
+
+---
 # What's Next?
 
 ➡️ Retrieval-Augmented Generation (RAG)
