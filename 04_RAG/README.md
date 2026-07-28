@@ -1,5 +1,5 @@
 
-# Retrieval-Augmented Generation (RAG)
+# 🔍 Retrieval-Augmented Generation (RAG)
 
 ## Introduction
 
