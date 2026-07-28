@@ -347,19 +347,16 @@ Final Response
 
 ✅ LangChain is an orchestration framework for building LLM applications.
 
----
 
 ### ❌ Agents are always required.
 
 ✅ Many production AI applications use simple RAG pipelines without agents.
 
----
 
 ### ❌ Tool Calling means the LLM executes Python code.
 
 ✅ The LLM only decides which tool should be used. LangChain executes the actual function.
 
----
 
 ### ❌ Bigger frameworks automatically produce better AI.
 
