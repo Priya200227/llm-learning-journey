@@ -176,6 +176,13 @@ When I first started learning about LLMs, I found it difficult to understand how
 I was also confused by concepts such as tokenization, attention mechanisms, transformers, and context windows because many resources explained them using heavy mathematical notation.
 
 ---
+## How I Solved Them
+
+Instead of trying to memorize every technical detail, I focused on understanding the complete flow of how an LLM processes a prompt—from tokenization to next-token prediction.
+
+Drawing simple diagrams and writing my own notes helped me connect each concept, making it much easier to understand how modern language models actually work.
+
+---
 ## What's Next?
 
 ➡ Embeddings
