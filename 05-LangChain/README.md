@@ -391,7 +391,20 @@ Final Response
 - FAISS Documentation
 
 ---
+## Challenges I Faced
 
+At the beginning, I thought LangChain was another language model. I found it difficult to understand how all its components worked together, especially tools, retrievers, chains, and agents.
+
+The large number of classes and modules also felt overwhelming during the initial learning phase.
+
+---
+## How I Solved Them
+
+Instead of memorizing APIs, I focused on understanding the purpose of each component and the engineering problem it solves.
+
+Implementing small examples, studying the workflow diagrams, and connecting each module to the complete RAG pipeline helped me understand how LangChain acts as an orchestration framework rather than an LLM itself.
+
+---
 # Next Topic
 
 ➡️ Building Production-Ready RAG Applications
