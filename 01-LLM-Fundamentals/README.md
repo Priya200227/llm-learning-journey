@@ -88,7 +88,7 @@ Generated Response
 
 ---
 
-# My Key Takeaways
+# My Understanding
 
 Through this topic, I understood that:
 
