@@ -111,7 +111,7 @@ The retrieved documents are then supplied to the LLM as additional context, enab
 
 ---
 
-# My Key Takeaways
+# My Understanding
 
 Throughout this topic, I understood that:
 
