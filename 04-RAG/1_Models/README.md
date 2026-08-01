@@ -57,9 +57,3 @@ Topics covered:
 - How embedding models represent text as vectors.
 - Why embeddings are the foundation of semantic search and Retrieval-Augmented Generation (RAG).
 - How LangChain provides a unified interface for working with different model providers.
-
----
-
-## Next Step
-
-The next step is using these models to build Prompt Templates, Structured Outputs, and Retrieval-Augmented Generation (RAG) pipelines.
