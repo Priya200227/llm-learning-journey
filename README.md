@@ -51,23 +51,21 @@ As I continue learning, I will regularly update this repository with:
 ```
 llm-learning-journey/
 
-README.md
-
-01-LLM-Fundamentals/
-
-02-Embeddings/
-
-03-Vector-Databases/
-
-04-RAG/
-
-05-LangChain/
-
-06-LangGraph/
-
-Projects/
-
-Resources/
+      01-LLM-Fundamentals/
+      
+      02-Embeddings/
+      
+      03-Vector-Databases/
+      
+      04-RAG/
+      
+      05-LangChain/
+      
+      06-LangGraph/
+      
+      Projects/
+      
+      Resources/
 ```
 
 Each folder contains my notes, code examples, and practical implementations for that topic.
