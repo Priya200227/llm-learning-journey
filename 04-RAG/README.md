@@ -251,8 +251,3 @@ I was also confused by the different stages of the RAG pipeline, especially the 
 Breaking the RAG workflow into two separate phases—Indexing and Retrieval—made everything much easier to understand.
 
 Building a simple RAG application step by step helped me see how each component contributes to generating grounded responses instead of relying only on the model's internal knowledge.
-
----
-
-# Next Topic
-➡️ LangChain Framework
