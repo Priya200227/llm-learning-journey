@@ -38,9 +38,3 @@ Instead of returning free-form text, the model is guided to produce responses in
 - How Pydantic models validate AI-generated outputs.
 - How TypedDict provides lightweight structured responses.
 - Why structured outputs are important when building production AI applications.
-
----
-
-## Next Step
-
-The next step is combining structured outputs with Retrieval-Augmented Generation (RAG) to build reliable AI applications that generate validated responses from retrieved knowledge.
