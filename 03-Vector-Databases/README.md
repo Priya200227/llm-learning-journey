@@ -245,9 +245,3 @@ Understanding similarity search and indexing for vectors also took some time.
 I compared the responsibilities of relational databases and vector databases side by side. That helped me realize they solve different retrieval problems rather than replacing each other.
 
 Following the complete retrieval pipeline—from embeddings to similarity search—helped me understand where vector databases fit into modern AI applications.
-
----
-# What's Next?
-
-➡️ Retrieval-Augmented Generation (RAG)
-
