@@ -43,9 +43,3 @@ Through these examples, I explored how prompts are generated, formatted, reused,
 - How variables can be injected into prompts dynamically.
 - How chat history can be included to create context-aware conversations.
 - Why structured prompts are important for building scalable AI applications.
-
----
-
-## Next Step
-
-The next step is integrating these prompt templates with document retrieval to build complete Retrieval-Augmented Generation (RAG) applications.
