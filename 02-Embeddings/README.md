@@ -213,10 +213,3 @@ I also found concepts like cosine similarity and vector representations confusin
 I started relating embeddings to semantic search instead of traditional keyword search. Visualizing similar words as nearby points in a vector space made the concept much clearer.
 
 Once I connected embeddings with real-world applications like document search and RAG, the overall idea became much easier to understand.
-
----
-# What's Next?
-
-Previous Topic
-
-➡️ Vector Databases
