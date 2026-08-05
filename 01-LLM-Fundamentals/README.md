@@ -179,8 +179,3 @@ I was also confused by concepts such as tokenization, attention mechanisms, tran
 Instead of trying to memorize every technical detail, I focused on understanding the complete flow of how an LLM processes a prompt—from tokenization to next-token prediction.
 
 Drawing simple diagrams and writing my own notes helped me connect each concept, making it much easier to understand how modern language models actually work.
-
----
-## What's Next?
-
-➡ Embeddings
