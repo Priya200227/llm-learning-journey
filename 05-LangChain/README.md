@@ -403,8 +403,3 @@ The large number of classes and modules also felt overwhelming during the initia
 Instead of memorizing APIs, I focused on understanding the purpose of each component and the engineering problem it solves.
 
 Implementing small examples, studying the workflow diagrams, and connecting each module to the complete RAG pipeline helped me understand how LangChain acts as an orchestration framework rather than an LLM itself.
-
----
-# Next Topic
-
-➡️ Building Production-Ready RAG Applications
