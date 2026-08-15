@@ -396,7 +396,6 @@ Implementing small examples, studying the workflow diagrams, and connecting each
 ---
 # Learning Resources
 
-- FAISS Documentation
 - [CampusX LangChain Playlist](https://youtu.be/pSVk-5WemQ0?si=-0ow2vXIQibJdmn-)
 - [Ansh Lamba tutorial](https://youtu.be/AOQyRiwydyo?si=BU7dQDF46RsK9d36)
 - [LangChain Official Documentation](https://docs.langchain.com/oss/python/langchain/overview)
